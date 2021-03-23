@@ -1,0 +1,4 @@
+Soal 2.
+  dalam program selisih waktu dan bilangan kompleks keduanya sama2 membuat object dengan menggunakan construktor hanya saja perbedaannya dalam program bilangan kompleks memnggunakan cache memori dari class
+Soal 3.
+  perbedaannya variabel didalam class perlu diinisialisasi untuk membuat sebuah objek sedangnkan dalam constructor inisialisasi sudah dilakukan melalui parameter
